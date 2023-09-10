@@ -1,0 +1,24 @@
+{
+  "translation": {
+    "app_title": "Portfolio",
+    "name1": "Hi, I'm Prerak Jain",
+    "About": "About",
+    "My Skills": "My Skills",
+    "Projects": "Projects",
+    "Contact": "Contact",
+    "hero_desc": "I'm a web developer with a passion for creating beautiful and responsive websites. I have experience in HTML, CSS, JavaScript, and React. Reach out if you would like to learn more.",
+    "footer_desc": "Feel free to reach out!",
+    "front_dev": "Frontend Developer",
+    "front_desc": "I'm a frontend developer with experience in building responsive and optimized sites",
+    "back_dev": "Backend Developer",
+    "back_desc": "I have built backend APIs for some of my projects using Nodejs and Express",
+    "project1": {
+      "title": "Chat App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn Socket.IO and ChakraUI",
+      "skills": ["React", "Express", "Node", "MongoDB", "Socket.io"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  }
+}
