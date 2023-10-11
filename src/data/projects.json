@@ -1,26 +1,26 @@
 [
   {
     "title": "Chat App",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn Socket.IO and ChakraUI",
-    "skills": ["React", "Express", "Node", "MongoDB", "Socket.io"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "imageSrc": "projects/Chat_app.png",
+    "description": "Real-time chat app made using Socket.IO and React",
+    "skills": ["React", "Express", "Node", "MongoDB", "Socket.IO"],
+    "demo": "https://lets-chat-uk7b.onrender.com/",
+    "source": "https://github.com/gitPrerakJain/Lets-Chat"
   },
   {
     "title": "Weather App",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn API calls in React This is a project made to learn API calls in ReactThis is a project made to learn API calls in React This is a project made to learn API calls in ReactThis is a project made to learn API calls in React ",
+    "imageSrc": "projects/Weather app.png",
+    "description": "A weather app that shows the weather of any location",
     "skills": ["React", "Express", "Node", "API"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://gitprerakjain.github.io/wiindy/",
+    "source": "https://github.com/gitPrerakJain/wiindy"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "E-commerce App",
+    "imageSrc": "projects/E-commerce app.png",
+    "description": "An E-commerce app made to learn Context API",
+    "skills": ["React", "Context API"],
+    "demo": "https://gitprerakjain.github.io/shopping-cart/",
+    "source": "https://github.com/gitPrerakJain/shopping-cart"
   }
 ]

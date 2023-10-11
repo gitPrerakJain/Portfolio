@@ -40,6 +40,7 @@
 
 .languageSwitcher {
   padding: 10px;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 830px) {
